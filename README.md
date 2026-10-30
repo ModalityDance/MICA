@@ -5,8 +5,8 @@
   <img src="./docs/assets/logo.svg" alt="MICA logo" width="112" height="112">
   <h1>Matched Capabilities, Different Behaviors:<br>A Controlled Study of MCP and CLI Interfaces for Language Agents</h1>
   <a href="https://modalitydance.github.io/MICA/"><img src="https://img.shields.io/badge/Project-Page-6a5acd?style=for-the-badge" alt="Project Page"></a>
-  <a href="#citation" title="arXiv link coming soon"><img src="https://img.shields.io/badge/arXiv-Coming_soon-b31b1b?style=for-the-badge&amp;logo=arxiv" alt="arXiv — coming soon"></a>
-  <a href="#citation" title="Hugging Face Paper link coming soon"><img src="https://img.shields.io/badge/HF_Paper-Coming_soon-fcc21b?style=for-the-badge&amp;logo=huggingface&amp;logoColor=white" alt="Hugging Face Paper — coming soon"></a>
+  <a href="https://arxiv.org/abs/2610.34298"><img src="https://img.shields.io/badge/Paper-b31b1b?style=for-the-badge&amp;logo=arxiv" alt="Paper"></a>
+  <a href="https://huggingface.co/papers/2610.34298"><img src="https://img.shields.io/badge/Hugging%20Face-Paper-fcc21b?style=for-the-badge&amp;logo=huggingface&amp;logoColor=white" alt="Hugging Face Paper"></a>
   <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="MIT License"></a>
 
 </div>
@@ -36,6 +36,7 @@ interface construction, behavioral analysis, and targeted action repair.
 
 ## 🔥 News
 
+- **[2026.10]** Our [paper](https://arxiv.org/abs/2610.34298) is now available on arXiv.
 - **[2026.10]** The MICA implementation is available in this repository, with matched MCP/CLI interfaces, DART, and behavioral analysis tools.
 
 ## 📑 Table of Contents
@@ -413,7 +414,10 @@ Please cite our work as:
   title  = {Matched Capabilities, Different Behaviors: A Controlled Study of MCP and CLI Interfaces for Language Agents},
   author = {Zhenning Shi and Liang Pang and Yongqi Li},
   year   = {2026},
-  url    = {https://github.com/ModalityDance/MICA}
+  eprint = {2610.34298},
+  archivePrefix = {arXiv},
+  primaryClass = {cs.AI},
+  url    = {https://arxiv.org/abs/2610.34298}
 }
 ```
 
